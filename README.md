@@ -39,5 +39,8 @@ now you can see in both clients that there is another connected user.
 
 game windows are now should be open for both player.
 
+
+*To win Connect Four you must be the first player to get four of your colored checkers in a row either horizontally, vertically or diagonally.
+
 9. crash your oponent
 10. see updated statistics after game ends.
